@@ -2,7 +2,6 @@
 #Author: Ceylavi
 #Company: Ceylavi Technologies Inc. ©2019
 echo "CeyMail 1.0"
-#Hahahaha
 printf "Author: Ceylavi\n"
 printf "Company: Ceylavi Technologies Inc. ©2019\n"
 printf "support: cey@ceylavi.com\n"
