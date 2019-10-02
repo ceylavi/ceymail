@@ -2,7 +2,10 @@
 #Author: Ceylavi
 #Company: Ceylavi Technologies Inc. ©2019
 echo "CeyMail 1.0"
+<<<<<<< HEAD
 #Ma nigga
+=======
+>>>>>>> d10606391b41d168815f0862a96c66dbb8f72e9f
 printf "Author: Ceylavi\n"
 printf "Company: Ceylavi Technologies Inc. ©2019\n"
 printf "support: cey@ceylavi.com\n"
