@@ -1,0 +1,26 @@
+Author: Ceylavi
+Company: Ceylavi Technologies Inc. ©2019
+
+CeyMan is the SQL database manager software for CeyMail.
+CeyMail is the email software.
+
+To Install
+
+1. Open Terminal
+2. cd into ceymail directory.
+3. Run chmod 755 ceymail.sh
+3. Run ./ceymail.sh command
+
+To Uninstall
+1. Run ceymail and enter option 'u'.
+
+Instructions
+------------
+1. Install CeyMan.
+2. Create an email database.
+3. Create a domain name (domain should already be setup using apache and pointed to the server through DNS Records).
+4. Create an email account (user).
+5. Create an alias (forwarding email, (optional)).
+6. Use database name, user and password to configure CeyMail.
+6. Backup database and copy backup to a safe place.
+7. Set Permissions
